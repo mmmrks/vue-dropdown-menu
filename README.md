@@ -1,5 +1,5 @@
 # VueJS dropdown menu
-![enter image description here](https://res.cloudinary.com/practicaldev/image/fetch/s--h3PnY8eM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/1mh3u6ifsn672u92pn73.gif)
+![](https://res.cloudinary.com/practicaldev/image/fetch/s--h3PnY8eM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/1mh3u6ifsn672u92pn73.gif)
 
 ## Install
 ```bash
