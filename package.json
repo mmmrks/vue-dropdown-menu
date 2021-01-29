@@ -1,7 +1,9 @@
 {
   "name": "@mmmrks/vue-dropdown-menu",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Vue dropdown menu component",
+  "author": "mmmrks",
+  "license": "ISC",
   "main": "dist/vue-dropdown-menu.ssr.js",
   "browser": "dist/vue-dropdown-menu.esm.js",
   "module": "dist/vue-dropdown-menu.esm.js",
@@ -16,6 +18,10 @@
     "build:ssr": "cross-env NODE_ENV=production rollup --config build/rollup.config.js --format cjs",
     "build:es": "cross-env NODE_ENV=production rollup --config build/rollup.config.js --format es",
     "build:unpkg": "cross-env NODE_ENV=production rollup --config build/rollup.config.js --format iife"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mmmrks/vue-dropdown-menu.git"
   },
   "dependencies": {},
   "devDependencies": {
